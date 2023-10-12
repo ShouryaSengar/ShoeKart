@@ -8,7 +8,7 @@ const Sidebar = ({ handleChange }) => {
     <>
       <section className="sidebar">
         <div className="logo-container">
-          <h1>Totaly Corp</h1>
+          <h1>Totality Corp</h1>
         </div>
         <Category handleChange={handleChange} />
         <Price handleChange={handleChange} />
