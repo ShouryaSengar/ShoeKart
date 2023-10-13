@@ -2,7 +2,7 @@
 
 ![E-Commerce Website](https://example.com/your-image-url.png)
 
-This is a powerful and interactive React-based e-commerce web application. It provides users with a seamless shopping experience, including product search and filtering, a shopping cart for managing added products, real-time updates of the cart's content, and a complete checkout process. It's an excellent project to learn about React and building feature-rich web applications.
+This is a powerful and interactive React-based e-commerce web application. It provides users with a seamless shopping experience, including product search and filtering, a shopping cart for managing added products, real-time updates of the cart's content, and a complete checkout process.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ This is a powerful and interactive React-based e-commerce web application. It pr
 - JavaScript
 - HTML
 - CSS
-- Other relevant libraries and packages
+- JSON data
 
 ## Getting Started
 
