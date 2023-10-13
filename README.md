@@ -1,6 +1,6 @@
 # E-Commerce React Web Application
 
-![E-Commerce Website](https://example.com/your-image-url.png)
+[E-Commerce Website](https://totalitycorp-frontend-challenge-taupe.vercel.app/)
 
 This is a powerful and interactive React-based e-commerce web application. It provides users with a seamless shopping experience, including product search and filtering, a shopping cart for managing added products, real-time updates of the cart's content, and a complete checkout process.
 
