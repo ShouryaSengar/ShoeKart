@@ -47,21 +47,25 @@ Before you start, ensure you have the following:
 
 ```bash
 git clone https://github.com/ShouryaSengar/totalitycorp-frontend-challenge.git
+```
 
 2. Navigate to the project directory:
 
    ```bash
    cd e-commerce-website
+   ```
 
 3. Install the project dependencies:
 
    ```bash
    npm install
+   ```
 
 4. Start the development server::
 
    ```bash
    npm start
+   ```
 
 5. Open your web browser and go to http://localhost:3000 to view the app.
 
