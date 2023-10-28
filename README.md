@@ -1,6 +1,6 @@
 # E-Commerce React Web Application
 
- [Live Link !!](https://totalitycorp-frontend-challenge-taupe.vercel.app/).
+ [Live Link !!](https://shoe-kart.vercel.app/).
 
 This is a powerful and interactive React-based e-commerce web application. It provides users with a seamless shopping experience, including product search and filtering, a shopping cart for managing added products, real-time updates of the cart's content, and a complete checkout process.
 
